@@ -11,8 +11,7 @@ iMove foi um projeto desenvolvido no curso Bootstrap 5 - Crie o seu primeiro pro
 
 
 ## GitHub Pages
-
-[Link](https://joao-inacio.github.io/Bootstrap5-Primeiro-Projeto/)
+<a href="https://joao-inacio.github.io/Bootstrap5-Primeiro-Projeto/" target="_blank">Link</a>
 
 
 ## Contributing
